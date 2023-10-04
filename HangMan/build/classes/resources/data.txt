@@ -1,0 +1,5 @@
+animals,Lion,Elephant,Bird,Tiger,Panda,Cat,Dog,Mouse,Horse,Dolphin
+sports,Basketball ,Football,Badminton,Volleyball,Golf,Boxing,Tennis,Bowling, Chess,Fishing
+fruits,Banana,Orange,Apple,Strawberry,Mango,Coconut,Cherry,Avocado,Peach,Durian
+anime,Naruto,Pokemon,Doraemon,Conan,Dragon Ball, Attack on Titan, One Punch Man, SPY x FAMILY, Tokyo Ghoul, Fairy Tail
+school,desk, chair, book, pencil case, backpack, calculator, highlighter, ruler, map, computer
